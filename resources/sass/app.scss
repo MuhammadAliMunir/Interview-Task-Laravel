@@ -1,0 +1,35 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.faq{
+  background: white;
+  border: 1px solid lightgrey;
+  padding: 10px 20px;
+}
+
+.faq .question{
+    border-bottom: 1px solid lightgrey;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.faq .question .ico-max-min{
+  float: right;
+}
+
+.faq .answer{
+  padding: 10px 0;
+}
