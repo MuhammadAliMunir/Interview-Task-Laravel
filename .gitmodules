@@ -1,0 +1,6 @@
+[submodule "My-Laravel-projrect"]
+	path = My-Laravel-projrect
+	url = https://github.com/MuhammadAliMunir/My-Laravel-projrect.git
+[submodule "Test"]
+	path = Test
+	url = https://github.com/MuhammadAliMunir/Test.git
